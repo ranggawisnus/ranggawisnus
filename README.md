@@ -31,10 +31,17 @@ Fokus saya: Python, API integration & reverse engineering, dan sistem otomasi ya
 ## 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ranggawisnus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranggawisnus&layout=compact&hide_border=true&count_private=true&theme=tokyonight" height="165" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranggawisnus&theme=tokyonight" alt="Profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranggawisnus&theme=tokyonight" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranggawisnus&theme=tokyonight" alt="Most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranggawisnus&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranggawisnus&theme=tokyonight" alt="Productive time"/>
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=ranggawisnus&theme=tokyonight&hide_border=true" alt="Streak stats"/>
 </p>
 
 ## 📫 Kontak
 
-- Telegram: [@mywheezyhermesbot](https://t.me/mywheezyhermesbot)
+- Email: ranggawisnusena@gmail.com
+- Telegram DM langsung ke saya: [@ranggawisnus](https://t.me/ranggawisnus)
