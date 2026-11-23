@@ -2,23 +2,9 @@
 
 **Rangga Wisnusena** — Backend & Automation engineer dari Indonesia 🇮🇩
 
-Saya membangun tools infrastruktur & automation sehari-hari: account farms, proxy pools, email disposable, CAPTCHA solving, RAG + citations, sampai thesis generator. Fokus utama: Python, API reverse engineering, dan sistem yang self-sustaining (cron + watchdog + alerting).
+Fokus saya: Python, API integration & reverse engineering, dan sistem otomasi yang self-sustaining (cron + watchdog + alerting). Suka membangun tools infrastruktur, REST API, dan data pipeline.
 
 ---
-
-## 🛠 Tools & Infrastructure (private)
-
-| Project | Deskripsi |
-|---|---|
-| **turnstile-kit** | Cloudflare Turnstile solver — browser challenge automation |
-| **autoclaw-register** | AutoClaw register farm — OAuth path, Shumei + Aliyun solver |
-| **autoclaw-proxy** | OpenAI-compatible proxy: pool akun, failover, rotation |
-| **ocf-stack** | Idle-aware OpenCode free-tier pool — multi-warp egress |
-| **runinfra-farm** | RunInfra account farm |
-| **tempmail-kit** | Disposable email client library + selftest |
-| **proxyscraper** | Self-replenishing free proxy pool: harvest → validasi → rotate |
-| **rag-citations** | PDF RAG dengan page-level citations — hybrid sqlite-FTS5 |
-| **thesis_agent** | S1 Management thesis generator: docx, diagram, sitasi |
 
 ## 🌱 Projects publik
 
@@ -52,7 +38,3 @@ Saya membangun tools infrastruktur & automation sehari-hari: account farms, prox
 ## 📫 Kontak
 
 - Telegram: [@mywheezyhermesbot](https://t.me/mywheezyhermesbot)
-- Location: Indonesia
-
----
-*Tools automation/infra di atas kebanyakan private — kalau butuh detail atau kerja sama, hubungi via Telegram.*
