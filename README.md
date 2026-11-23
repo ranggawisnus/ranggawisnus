@@ -14,6 +14,7 @@ Fokus saya: Python, API integration & reverse engineering, dan sistem otomasi ya
 | [php-pure-boilerplate](https://github.com/ranggawisnus/php-pure-boilerplate) | Boilerplate PHP murni untuk proyek kecil |
 | [travelinap](https://github.com/ranggawisnus/travelinap) | Villa booking platform |
 | [portofolio](https://github.com/ranggawisnus/portofolio) | Website portofolio pribadi |
+| [vps-mon](https://github.com/ranggawisnus/vps-mon) | Monitor VPS: alive-check + pengingat sewa, alert Telegram anti-spam (stdlib only) |
 
 ## 🧰 Stack
 
