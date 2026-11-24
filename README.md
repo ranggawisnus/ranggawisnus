@@ -68,6 +68,10 @@ git clone https://github.com/ranggawisnus/vps-mon.git && cd vps-mon && bash setu
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ranggawisnus/ranggawisnus/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+## 💼 Aktivitas GitLab (agregat)
+
+<!-- GITLAB_STATS -->
+
 ## 📫 Kontak
 
 - Email: [ranggawisnusena@gmail.com](mailto:ranggawisnusena@gmail.com)
